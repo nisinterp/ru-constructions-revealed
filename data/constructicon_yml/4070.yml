@@ -1,0 +1,48 @@
+---
+record: 4070
+name: 'VP худо-бедно'
+UD_name: ''
+illustration: 'Дело сделано: худо-бедно, а сделано.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Раньше автобусы худо-бедно, но [с задачей справлялись]Action.
+  - |
+       Пересдавал он осенью и худо-бедно [дотянул до диплома]Action.
+  - |
+       Худо-бедно [большинство клавиш заработало]Action.
+  - |
+       В итоге худо-бедно [в воскресенье были сделаны только внутренние рейсы]Action, а почти все международные задержаны до понедельника.
+  - |
+       Худо-бедно, но [все-таки изменения идут]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod худо-[compound бедно]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass Дело] сделано: [parataxis худо-[compound бедно], [conj [cc а] сделано]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

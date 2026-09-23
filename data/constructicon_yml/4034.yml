@@ -1,0 +1,48 @@
+---
+record: 4034
+name: 'VP-Ipfv.Inf не на-~VP.Pfv.Inf'
+UD_name: ''
+illustration: 'Смотреть на эту красоту - не насмотреться.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Когда он любовался теми, кого любил, на него [глядеть]Activity — не [наглядеться]Action.
+  - |
+       Мне по этой травке ходить не находиться, [Гулять]Activity не [нагуляться]Action.
+  - |
+       Пути-дороженьки расейские, ходить не исходить вас, [радоваться]Activity не [нарадоваться]Action.
+  - |
+       Жажду пить наслаждения через край и до капли, — [пить]Activity не [напиться]Action!
+  - |
+       Какая ты белая да румяная была, [глядеть]Activity не [наглядеться]Action, а теперь...
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Negation
+  - Reduplication
+part_of_speech_of_anchor:
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP-Ipfv.Inf [conj [advmod не] на-~VP.Pfv.Inf]]'
+dependency_structure_of_illustration:
+  - '[root Смотреть [obl [case на] [det эту] красоту] - [conj [advmod не] насмотреться].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

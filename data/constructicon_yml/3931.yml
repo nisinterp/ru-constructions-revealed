@@ -1,0 +1,47 @@
+---
+record: 3931
+name: 'NP-Nom стать VP-Inf'
+UD_name: ''
+illustration: 'Он сразу стал жаловаться на свою жизнь.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       И тут [все наперебой]Agent стали [говорить, как круто я одета]Action!
+  - |
+       В то время [Русь]Theme стала [испытывать всё более сильный натиск кочевников-печенегов]Event.
+  - |
+       В 1910 г. [музей УОЛЕ]Theme стал [именоваться «Музеем имени императора Александра II в память 19 февраля 1861 г.»]Event.
+  - |
+       После окончания войны священник [Василий Зиновьев]Agent вернулся в Ярославль и вновь стал [служить в детском приютском храме]Action.
+  - |
+       В России станут [производить больше обезболивающих препаратов, содержащих такие вещества, как оксикодон, ремифентанил и фентанил]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] стать [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod сразу] стал [xcomp жаловаться [obl [case на] [det свою] жизнь]]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

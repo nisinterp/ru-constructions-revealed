@@ -1,0 +1,51 @@
+---
+record: 3976
+name: 'легкий Noun'
+UD_name: ''
+illustration: 'легкий акцент'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Легкий [ветерок]Theme дул от реки в нашу сторону.
+  - |
+       — Узнаешь? — с легкой [улыбкой]Theme спросил он Мазура, кивнув в сторону майора.
+  - |
+       Я услышал сквозь сон легкий [запах смолы]Theme…
+  - |
+       Эти животные не боятся лёгких [морозов]Theme, но сквозняков и резких перепадов температур не выносят
+  - |
+       Фомин скинул одежду и в легком [ознобе]Theme отошел ко сну.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod легкий] N]'
+dependency_structure_of_illustration:
+  - '[dep [amod легкий] акцент]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1494, 1495, 1496, 1497, 1498, 1499, 1500, 3967, 3968, 3969, 3970, 3971, 3972, 3973, 3974, 3975, 3977'
+equivalents:
+common_fillers:
+  - акцент
+  - след
+  - остаток
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

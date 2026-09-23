@@ -1,0 +1,49 @@
+---
+record: 3698
+name: 'Слышь (ты), Cl'
+UD_name: ''
+illustration: 'Слышь ты, иди сюда и извинись!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Слышь, [тут не матерятся]Situation!
+  - |
+       Слышь, [мы рисовать будем или нет]Situation?
+  - |
+       Слышь, [а ты случайно не Лиза]Situation?
+  - |
+       Слышь, [ты от ответа не уходи]Situation.
+  - |
+       Слышь ты, [тебя вообще никто не спрашивал]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Verb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis Слышь [nsubj ты]], Cl]'
+  - '[root [parataxis Слышь], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Слышь [nsubj ты], иди [advmod сюда] [conj [cc и] извинись]!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

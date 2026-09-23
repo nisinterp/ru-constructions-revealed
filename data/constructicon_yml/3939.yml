@@ -1,0 +1,47 @@
+---
+record: 3939
+name: 'NP на NP-Acc'
+UD_name: ''
+illustration: 'Мы ждём последнюю электричку на Москву.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Никак не могу вспомнить, когда у нас ближайший [корабль]Theme на [Землю]Goal?
+  - |
+       [Автобус]Theme на [юг города]Goal стоит на остановке уже 40 минут.
+  - |
+       За три часа до отправленья [электрички]Theme на [Тайгу]Goal он не выдержал, набрал ненужный номер в будке телефонной.
+  - |
+       Новые [скоростные поезда]Theme на [Санкт-Петербург]Goal были введены в эксплуатацию в прошлом году.
+  - |
+       Он уезжал [поездом]Theme на [Север]Goal, но не сказал, куда.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case на] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] ждём [obj [amod последнюю] электричку [nmod [case на] Москву]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

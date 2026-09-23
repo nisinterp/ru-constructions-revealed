@@ -1,0 +1,53 @@
+---
+record: 2232
+name: 'коль скоро Cl, Cl'
+UD_name: 'коль скоро Cl, Cl'
+illustration: 'Коль скоро Петя обиделся, придётся извиняться.'
+cefr_level: C2
+definitions:
+examples:
+  - |
+       Кстати, коль скоро [ты заговорил о недвижимости]Condition, [как насчет купить дом?]Situation.
+  - |
+       Коль скоро [ты выходишь на арену]Condition, то [должен думать только о победе]Situation.
+  - |
+       Коль скоро [мы получили этот закон]Condition, [надо его принять в том виде, в котором он есть]Situation.
+  - |
+       Коль скоро [я не могу изменить мир]Condition, [я по крайней мере хотел бы изменить взгляд человека на мир]Situation.
+  - |
+       А коль скоро [программа расселения сильно отстает от заданного плана]Condition, [разумно было бы разработать новый, реалистичный план]Situation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advcl [mark коль [fixed скоро]] Cl]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Коль [fixed скоро]] [nsubj Петя] обиделся], придётся [csubj извиняться].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - norwegian: |
+       hvis... / dersom... / siden...
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+family:
+  - |
+    ""

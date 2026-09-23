@@ -1,0 +1,17 @@
+model ai-forever/ruRoberta-large @ 5192d064ca6ac67c14c40e017ce41612e010f05f
+Loading weights:   0%|          | 0/396 [00:00<?, ?it/s]Loading weights: 100%|██████████| 396/396 [00:00<00:00, 22835.87it/s]
+  200/2891, 81s
+  400/2891, 144s
+  600/2891, 206s
+  800/2891, 275s
+  1000/2891, 335s
+  1200/2891, 396s
+  1400/2891, 473s
+  1600/2891, 565s
+  1800/2891, 631s
+  2000/2891, 710s
+  2200/2891, 792s
+  2400/2891, 871s
+  2600/2891, 945s
+  2800/2891, 1025s
+scored 2891 RNC targets -> /home/student-1/ru-constructions-revealed/results/affinity_rnc.jsonl; exclusions: 0

@@ -1,0 +1,77 @@
+---
+record: 2334
+name: 'Не PronPers-Dat судить Cl'
+UD_name: 'Не PronPers-Dat судить Cl'
+illustration: 'Не тебе судить, что я за человек.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что, по мнению говорящего, [участник ситуации]Cognizer (в том числе сам говорящий) не имеет морального права или возможности давать [объективную оценку]Evaluation ситуации.
+examples:
+  - |
+       Не [мне]Cognizer судить, [кто прав, кто виноват]Evaluation.
+  - |
+       Не [мне]Cognizer судить, [кто и как должен себя вести]Evaluation, я не претендую на звание святого.
+  - |
+       Не [мне]Cognizer судить, [какой творческой вершины достиг наш театр]Evaluation.
+  - |
+       [Насколько поэзия Звягинцева воздушна]Evaluation, не [нам]Cognizer судить.
+  - |
+       [Может, я и ошибся, а может, и нет]Evaluation ― не знаю, не [мне]Cognizer судить.
+morphology:
+  - PronPers
+  - Dat
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+semantic_roles:
+  - Cognizer
+  - Evaluation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj [advmod не] PronPers-Dat] судить'
+  - '[ccomp Cl]]'
+dependency_structure_of_illustration:
+  - '[root [iobj [advmod Не] тебе] судить, [ccomp [det что] [nsubj я] [case за] человек].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - norwegian: |
+       X har ikke rett til å dømme...
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    "Disapproval"

@@ -1,0 +1,62 @@
+60 unique observed anchor forms
+[1/60] а: fetched=135 dropped_in_construction=46 kept=50 filter=applied
+[2/60] бельмеса: fetched=100 dropped_in_construction=77 kept=23 filter=applied
+[3/60] все: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[4/60] всем: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+[5/60] да: fetched=147 dropped_in_construction=2 kept=50 filter=applied
+[6/60] за: fetched=146 dropped_in_construction=0 kept=50 filter=applied
+[7/60] и: fetched=125 dropped_in_construction=1 kept=50 filter=applied
+[8/60] как: fetched=147 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[9/60] коль: fetched=100 dropped_in_construction=35 kept=50 filter=applied
+[10/60] кто: fetched=148 dropped_in_construction=2 kept=50 filter=applied
+[11/60] куда: fetched=149 dropped_in_construction=8 kept=50 filter=applied
+[12/60] легкий: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[13/60] легких: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[14/60] легкой: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[15/60] легком: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[16/60] милость: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[17/60] на: fetched=127 dropped_in_construction=19 kept=50 filter=applied
+[18/60] не: fetched=146 dropped_in_construction=53 kept=50 filter=applied
+[19/60] ничего: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[20/60] но: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+[21/60] ну: fetched=148 dropped_in_construction=55 kept=50 filter=applied
+[22/60] одно: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[23/60] от: fetched=148 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[24/60] по: fetched=144 dropped_in_construction=0 kept=50 filter=applied
+[25/60] получилось: fetched=147 dropped_in_construction=39 kept=50 filter=applied
+[26/60] пудов: fetched=146 dropped_in_construction=0 kept=50 filter=applied
+[27/60] раз: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+[28/60] развязав: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[29/60] развязал: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[30/60] развязан: fetched=39 dropped_in_construction=0 kept=39 filter=n/a (single-anchor)
+[31/60] развязанного: fetched=12 dropped_in_construction=0 kept=12 filter=n/a (single-anchor)
+[32/60] развязать: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[33/60] разом: fetched=100 dropped_in_construction=11 kept=50 filter=applied
+[34/60] сказать: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[35/60] скоро: fetched=149 dropped_in_construction=2 kept=50 filter=applied
+[36/60] смотрю: fetched=100 dropped_in_construction=66 kept=34 filter=applied
+[37/60] сочла: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[38/60] сочли: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[39/60] сочтет: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[40/60] стал: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[41/60] стала: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[42/60] стали: fetched=148 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[43/60] станут: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[44/60] стопудово: fetched=33 dropped_in_construction=0 kept=33 filter=applied
+[45/60] судить: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[46/60] счел: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[47/60] такая: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[48/60] такой: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[49/60] тихий: fetched=149 dropped_in_construction=1 kept=50 filter=applied
+[50/60] ты: fetched=145 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[51/60] у: fetched=145 dropped_in_construction=0 kept=50 filter=applied
+[52/60] ужас: fetched=147 dropped_in_construction=1 kept=50 filter=applied
+[53/60] фиг: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[54/60] фронтам: fetched=100 dropped_in_construction=47 kept=50 filter=applied
+[55/60] хрен: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+[56/60] худо-бедно: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+[57/60] что: fetched=143 dropped_in_construction=0 kept=50 filter=applied
+[58/60] чтобы: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+[59/60] это: fetched=148 dropped_in_construction=0 kept=50 filter=applied
+[60/60] я: fetched=144 dropped_in_construction=1 kept=50 filter=applied
+wrote 2891 sentences to /home/student-1/ru-constructions-revealed/data/rnc_items.jsonl

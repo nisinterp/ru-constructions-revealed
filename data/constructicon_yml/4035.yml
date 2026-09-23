@@ -1,0 +1,50 @@
+---
+record: 4035
+name: 'кто NP-Nom такой, чтобы Cl'
+UD_name: ''
+illustration: 'Кто ты такой, чтобы раздавать здесь указания?'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Кто [я]Agent такая, чтобы [писать об этом]Activity ?
+  - |
+       [Ты]Agent вообще кто такой, чтобы [меня критиковать]Activity ?
+  - |
+       А кто [вы]Agent вообще такой, чтобы [вас любить]Activity , и зачем вам моя любовь?
+  - |
+       Кто [он]Agent такой, чтобы [о нём переживать]Activity ?
+  - |
+       Кто [она]Agent такая, чтобы [здесь командовать]Activity !
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root кто [nsubj NP-Nom] [det такой]'
+  - '[advcl [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Кто [nsubj ты] [det такой], [advcl [mark чтобы] раздавать [advmod здесь] [obj указания]]?]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

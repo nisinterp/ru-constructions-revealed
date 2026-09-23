@@ -1,0 +1,50 @@
+---
+record: 4056
+name: '(ну) VP и ~VP'
+UD_name: ''
+illustration: 'Я довольно холодно отреагировала — ну прислал и прислал.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ну, [колет]Activity и [колет]Activity. Поколет — перестанет.
+  - |
+       — Сегодня будет дождь, — я не знал, что сказать: ну [будет]Event и [будет]Event.
+  - |
+       Ну [удалили]Action и [удалили]Action, подумаешь!
+  - |
+       А лет через пять никто уже не вспоминал: ну, [слетали]Action и [слетали]Action, тоже событие.
+  - |
+       Ну, [было]Event и [было]Event. Сейчас-то что об этом говорить?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Particle
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [discourse ну] VP [conj [cc и] ~VP]]'
+dependency_structure_of_illustration:
+  - '[root [csubj [nsubj Я] [advmod довольно [advmod холодно]] отреагировала] — [discourse ну] прислал [conj [cc и] прислал].]'
+comment: |
+    'Не путать с 86  всё VP-Ipfv да/и ~VP-Ipfv - Мальчик всё шёл да шёл.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

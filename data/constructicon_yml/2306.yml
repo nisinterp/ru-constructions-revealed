@@ -1,0 +1,64 @@
+---
+record: 2306
+name: 'Сделать-Imp милость, VP-Imp'
+UD_name: 'Сделать-Imper милость, VP-Imper'
+illustration: 'Сделай милость, никогда не прикасайся к моим вещам!'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Сделай милость, [позови ко мне деревенского портного.]ContentOfSpeech
+  - |
+       Сделай милость, [никогда больше не появляйся.]ContentOfSpeech Я давно тебя забыла.
+  - |
+       Сделай милость, [не учи меня.]ContentOfSpeech
+  - |
+       И [не рычи,]ContentOfSpeec, сделай милость.
+  - |
+       [Скажи мне,]ContentOfSpeech дураку, сделай милость! Попытаюсь как-нибудь тебя понять.
+morphology:
+  - Imp
+  - VP
+  - Imp
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Object
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+  - Verb and Object
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root сделать-Imp [obj милость]'
+  - '[parataxis VP-Imp]]'
+dependency_structure_of_illustration:
+  - '[root Сделай [obj милость], [parataxis [advmod никогда] [advmod не] прикасайся [obl [case к] [det моим] вещам]]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - norwegian: |
+       gjør meg en tjeneste, gjør X
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Request
+  - type: Routine
+    subtypes:
+      - type: Politeness marker
+family:
+  - |
+    ""

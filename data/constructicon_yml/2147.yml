@@ -1,0 +1,58 @@
+---
+record: 2147
+name: 'Независимо от NP-Gen, Cl'
+UD_name: 'Независимо от NP-Gen, Cl'
+illustration: 'Независимо от решения министров, закон будет принят.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Независимо от [уровня интеллекта,]Concession [мальчик неплохо справляется с программой]Situation.
+  - |
+       Независимо от [отношения детей к этому,]Concession [нужно учить их этикету]Situation.
+  - |
+       На занятиях, независимо от [пола,]Concession [нужно выполнять определенные требования]Situation.
+  - |
+       Независимо от [возраста,]Concession [смена паспорта допускается в случае смены фамилии или имени]Situation.
+  - |
+       Независимо от [решения товарищей,]Concession [я останусь при своем мнении.]Situation
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod независимо [obl [case от] NP-Gen]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [advmod Независимо [obl [case от] решения [nmod министров]]], [nsubj:pass закон] [aux:pass будет] принят.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - norwegian: |
+       uavhengig av X ...
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Other
+family:
+  - |
+    ""

@@ -1,0 +1,9 @@
+record 4080 example 4: no bracketed slots found
+record 3698 example 0: no anchor word matched anchors=['ты'] in text='Слышь, тут не матерятся!'
+record 3698 example 1: no anchor word matched anchors=['ты'] in text='Слышь, мы рисовать будем или нет?'
+record 3698 example 2: no anchor word matched anchors=['ты'] in text='Слышь, а ты случайно не Лиза?'
+record 3698 example 3: no anchor word matched anchors=['ты'] in text='Слышь, ты от ответа не уходи.'
+record 4069 example 0: no bracketed slots found
+record 4069 example 4: no bracketed slots found
+record 3964 example 3: no bracketed slots found
+record 3964 example 4: no bracketed slots found

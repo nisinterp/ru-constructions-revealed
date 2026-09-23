@@ -1,0 +1,55 @@
+---
+record: 4076
+name: 'Ни бельмеса не Verb в NP-Prep/по-Adj-cки'
+UD_name: ''
+illustration: 'А в вашей зоологии я ни бельмеса не понимаю.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Мы с Марией распили бутылку и пришли к единому мнению — [наши друзья]Cognizer ни бельмеса не [смыслят]State [в вине]Parameter.
+  - |
+       Хороший [вы]Cognizer мужик, но [в людях]Parameter ни бельмеса не [смыслите]State.
+  - |
+       Всё так тяжело, когда ни бельмеса не [понимаешь]State.
+  - |
+       И хоть [я]Cognizer ни бельмеса не [смыслил]State [во французском]Parameter, что-то все же мне было понятно из его монолога.
+  - |
+       Да ведь [ты]Cognizer все равно ни [по-французски]Parameter, ни [по-немецки]Parameter ни бельмеса не [знаешь]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root [obj [advmod Ни] бельмеса] [advmod не] Verb [obl [case в] NP-Prep]]'
+  - '[root [obj [advmod Ни] бельмеса] [advmod не] Verb [advmod по--Adj-cки]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [obl [case в] [det вашей] зоологии] [nsubj я] [obj [advmod ни] бельмеса] [advmod не] понимаю.]'
+comment: |
+    'См. также синонимичные конструкции 4073, 4074, 4075, 4077, 4078'
+equivalents:
+common_fillers:
+  - понимать
+  - знать
+  - смыслить
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

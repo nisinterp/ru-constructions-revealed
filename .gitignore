@@ -13,3 +13,10 @@ experiment/traces/
 experiment/results/
 experiment/state_*.json
 
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+
+# Raw RNC API responses (re-downloadable with RNC_API_TOKEN)
+data/raw/

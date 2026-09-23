@@ -1,0 +1,53 @@
+---
+record: 3951
+name: 'фиг/хрен NP-Dat, а не NP-Nom'
+UD_name: ''
+illustration: 'Фиг тебе, а не туфли!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       В таких случаях уже ни о каких долгах речи нет. Хрен [им]Maleficiary, а не [долг]Patient.
+  - |
+       Фиг [тебе]Maleficiary, а не [коньяк]Patient!
+  - |
+       Да хрен [тебе]Maleficiary, а не [искусство]Patient.
+  - |
+       Фиг [ему]Maleficiary, а не [дом]Patient!
+  - |
+       Хрен [вам]Maleficiary, а не [телефончик]Patient!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+  - Conjunction
+  - Negation
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root фиг [iobj NP-Dat], [conj [cc а] [advmod не] NP-Nom]]'
+  - '[root хрен [iobj NP-Dat], [conj [cc а] [advmod не] NP-Nom]]'
+dependency_structure_of_illustration:
+  - '[root Фиг [iobj тебе], [conj [cc а] [advmod не] туфли]!]'
+comment: |
+    'Также, помимо слов "фиг" и "хрен", возможны употребления матерных слов аналогичного содержания.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

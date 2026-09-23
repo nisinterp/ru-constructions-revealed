@@ -1,0 +1,50 @@
+---
+record: 4042
+name: 'Сто пудов/стопудово XP'
+UD_name: ''
+illustration: 'Стопудово, теперь всему найдут достойное оправдание.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       — А вдруг он не женится? — Женится, Машунь, сто пудов [женится]Action.
+  - |
+       Но если пишет ночью — сто пудов, [что-то не ладится]Situation.
+  - |
+       [Ей вообще эти работники бесплатно достались]Situation, вот сто пудов.
+  - |
+       Во всяком случае, сделаны они стопудово [добротнее и профессиональнее, чем то, что сейчас снимают]Parameter.
+  - |
+       Игрок совершил грубое навершение, [удаление]Situation стопудово.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [nummod Сто] пудов] XP]'
+  - '[root [advmod стопудово] XP]'
+dependency_structure_of_illustration:
+  - '[root Стопудово, [ccomp [advmod теперь] [iobj всему] найдут [obj [amod достойное] оправдание]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

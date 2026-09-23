@@ -1,0 +1,49 @@
+---
+record: 4079
+name: 'VP по всем фронтам'
+UD_name: ''
+illustration: 'Подготовка к этому мероприятию идет по всем фронтам.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Олег был молод, полон сил, честолюбив и [нацелен на успех]Result по всем фронтам.
+  - |
+       Работа [ведется]Activity по всем фронтам.
+  - |
+       Крупнейшая в Европе выставка электроники [сдает позиции]Activity по всем фронтам.
+  - |
+       Маму смущало, что я [болел]State сразу по всем фронтам — зубы были ни к чёрту, печень шалила, дыхательные пути то и дело закупоривались.
+  - |
+       Цифровые методы получения и обработки изображений [наступают]Activity по всем фронтам и стремительно вытесняют традиционную аналоговую технику.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] [det всем] фронтам]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Подготовка] [obl [case к] [det этому] мероприятию] идет [obl [case по] [det всем] фронтам].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

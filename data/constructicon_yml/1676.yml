@@ -1,0 +1,74 @@
+---
+record: 1676
+name: 'у NP-Gen получилось VP-Pfv.Inf'
+UD_name: 'у NP-Gen получилосьVP-Perf.Inf'
+illustration: 'У меня впервые получилось приехать вовремя.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник после стараний, ожиданий или попыток [смог выполнить желаемое действие]Result. [Результат]Result оценивается говорящим положительно.
+examples:
+  - |
+       У [Рязанова]Agent получилось [снять городскую сказку]Result.
+  - |
+       Надеюсь, у [Петра]Agent получилось [передать идею]Result.
+  - |
+       Главное, у [писателя]Agent получилось [донести мысль]Result о том что чудеса случаются!
+  - |
+       [Поклониться]Result во второй раз у [Саши]Agent получилось намного лучше.
+  - |
+       Это всё, что у [ребят]Agent получилось [сделать]Result.
+morphology:
+  - NP
+  - Gen
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Result
+  - Agent
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] получилось [csubj VP-Pfv.Inf]]'
+  - '[root [obl [case у] NP-Gen] вышло [csubj VP-Pfv.Inf]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] меня] [advmod впервые] получилось [csubj приехать [advmod вовремя]].]'
+comment: |
+    'См. синонимичную конструкцию 1677 NP-Nom смочь/суметь VP-Pfv.Inf (Она смогла уйти с работы пораньше.)'
+equivalents:
+  - norwegian: |
+       X klarer å Y
+common_fillers:
+  - сделать
+  - приехать
+  - зайти
+  - забить
+  - вырваться
+  - совместить
+  - забеременеть
+  - показать
+  - объяснить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Actuality
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Non-standard subject marking
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+family:
+  - |
+    ""

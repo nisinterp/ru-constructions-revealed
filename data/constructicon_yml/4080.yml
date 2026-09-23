@@ -1,0 +1,51 @@
+---
+record: 4080
+name: 'NP-Nom/VP-Inf Cop тихий ужас'
+UD_name: ''
+illustration: 'Продуктовый в соседнем доме - это тихий ужас!'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       А мне лагерь абсолютно не понравился, [это]Theme тихий ужас какой-то.
+  - |
+       Ни в коем случае не берите последнюю модель, [это]Theme тихий ужас !
+  - |
+       [Подарки моей свекрови]Theme — это вообще тихий ужас!
+  - |
+       Да, [современные игрушки и мультики]Theme — это тихий ужас , за редким исключением.
+  - |
+       В пять лет [не уметь пользоваться горшком] - это вообще тихий ужас!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [amod тихий] ужас]'
+  - '[root [csubj VP-Inf] [cop Cop] [amod тихий] ужас]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Продуктовый [nmod [case в] [amod соседнем] доме] - [expl это] [amod тихий] ужас!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

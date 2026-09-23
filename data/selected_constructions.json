@@ -1,0 +1,366 @@
+[
+ {
+  "record": 3428,
+  "name": "VP кто куда",
+  "n_ex": 5,
+  "anchors": [
+   "кто",
+   "куда"
+  ],
+  "syn": "Head and Modifier Construction",
+  "kind": "func",
+  "example": "Тогда это было отстающее село, откуда люди [разъезжались]Action кто куда.\n"
+ },
+ {
+  "record": 3976,
+  "name": "легкий Noun",
+  "n_ex": 5,
+  "anchors": [
+   "легкий"
+  ],
+  "syn": "Head and Modifier Construction",
+  "kind": "content",
+  "example": "Легкий [ветерок]Theme дул от реки в нашу сторону.\n"
+ },
+ {
+  "record": 4079,
+  "name": "VP по всем фронтам",
+  "n_ex": 5,
+  "anchors": [
+   "по",
+   "всем",
+   "фронтам"
+  ],
+  "syn": "Head and Modifier Construction",
+  "kind": "mixed",
+  "example": "Олег был молод, полон сил, честолюбив и [нацелен на успех]Result по всем фронтам.\n"
+ },
+ {
+  "record": 4060,
+  "name": "N-Nom как ~N-Nom",
+  "n_ex": 5,
+  "anchors": [
+   "как"
+  ],
+  "syn": "Clause",
+  "kind": "func",
+  "example": "Раньше это была [дача]Comparee как [дача]Standard -- обыкновенный деревянный домик.\n"
+ },
+ {
+  "record": 4080,
+  "name": "NP-Nom/VP-Inf Cop тихий ужас",
+  "n_ex": 5,
+  "anchors": [
+   "тихий",
+   "ужас"
+  ],
+  "syn": "Clause",
+  "kind": "content",
+  "example": "А мне лагерь абсолютно не понравился, [это]Theme тихий ужас какой-то.\n"
+ },
+ {
+  "record": 4056,
+  "name": "(ну) VP и ~VP",
+  "n_ex": 5,
+  "anchors": [
+   "ну",
+   "и"
+  ],
+  "syn": "Clause",
+  "kind": "mixed",
+  "example": "Ну, [колет]Activity и [колет]Activity. Поколет — перестанет.\n"
+ },
+ {
+  "record": 3939,
+  "name": "NP на NP-Acc",
+  "n_ex": 5,
+  "anchors": [
+   "на"
+  ],
+  "syn": "Copula Construction",
+  "kind": "func",
+  "example": "Никак не могу вспомнить, когда у нас ближайший [корабль]Theme на [Землю]Goal?\n"
+ },
+ {
+  "record": 4057,
+  "name": "всем NP-Dat.Pl ~NP-Nom",
+  "n_ex": 5,
+  "anchors": [
+   "всем"
+  ],
+  "syn": "Copula Construction",
+  "kind": "content",
+  "example": "Да, это такой шнапс — всем [шнапсам]Standard [шнапс]Comparee.\n"
+ },
+ {
+  "record": 4076,
+  "name": "Ни бельмеса не Verb в NP-Prep/по-Adj-cки",
+  "n_ex": 5,
+  "anchors": [
+   "бельмеса",
+   "не",
+   "в",
+   "по-Adj",
+   "ки"
+  ],
+  "syn": "Copula Construction",
+  "kind": "mixed",
+  "example": "Мы с Марией распили бутылку и пришли к единому мнению — [наши друзья]Cognizer ни бельмеса не [смыслят]State [в вине]Parameter.\n"
+ },
+ {
+  "record": 3698,
+  "name": "Слышь (ты), Cl",
+  "n_ex": 5,
+  "anchors": [
+   "ты"
+  ],
+  "syn": "Clause or XP with parentheticals",
+  "kind": "func",
+  "example": "Слышь, [тут не матерятся]Situation!\n"
+ },
+ {
+  "record": 4042,
+  "name": "Сто пудов/стопудово XP",
+  "n_ex": 5,
+  "anchors": [
+   "пудов",
+   "стопудово"
+  ],
+  "syn": "Clause or XP with parentheticals",
+  "kind": "content",
+  "example": "— А вдруг он не женится? — Женится, Машунь, сто пудов [женится]Action.\n"
+ },
+ {
+  "record": 4069,
+  "name": "(я) смотрю, Cl",
+  "n_ex": 5,
+  "anchors": [
+   "я",
+   "смотрю"
+  ],
+  "syn": "Clause or XP with parentheticals",
+  "kind": "mixed",
+  "example": "Ты и гвоздя, смотрю, как следует не можешь забить]Situation.\n"
+ },
+ {
+  "record": 4034,
+  "name": "VP-Ipfv.Inf не на-~VP.Pfv.Inf",
+  "n_ex": 5,
+  "anchors": [
+   "не",
+   "на"
+  ],
+  "syn": "Predicate Argument Construction",
+  "kind": "func",
+  "example": "Когда он любовался теми, кого любил, на него [глядеть]Activity — не [наглядеться]Action.\n"
+ },
+ {
+  "record": 3964,
+  "name": "развязать NP-Acc",
+  "n_ex": 5,
+  "anchors": [
+   "развязать"
+  ],
+  "syn": "Predicate Argument Construction",
+  "kind": "content",
+  "example": "Придя к власти в 1874 году, он развязал [войну]Situation в Афганистане.\n"
+ },
+ {
+  "record": 4033,
+  "name": "VP-Ipfv.Inf не пере-~VP-Pfv.Inf",
+  "n_ex": 5,
+  "anchors": [
+   "не",
+   "пере"
+  ],
+  "syn": "Predicate Argument Construction",
+  "kind": "mixed",
+  "example": "Жена оставила много долгов - [платить]Activity не [переплатить]Action\n"
+ },
+ {
+  "record": 4063,
+  "name": "VP-Inf/Adj-Nom-то (NP-Nom) не XP/Adj, (а/но/да Cl)",
+  "n_ex": 5,
+  "anchors": [
+   "то",
+   "не",
+   "а",
+   "но",
+   "да"
+  ],
+  "syn": "Biclausal Construction",
+  "kind": "func",
+  "example": "[Взять]Topic-то [взяло]ContentOfSpeech на себя [правительство]Paticipant эти проблемы, да [еще не решило]Situation.\n"
+ },
+ {
+  "record": 2306,
+  "name": "Сделать-Imp милость, VP-Imp",
+  "n_ex": 5,
+  "anchors": [
+   "милость"
+  ],
+  "syn": "Biclausal Construction",
+  "kind": "content",
+  "example": "Сделай милость, [позови ко мне деревенского портного.]ContentOfSpeech\n"
+ },
+ {
+  "record": 3951,
+  "name": "фиг/хрен NP-Dat, а не NP-Nom",
+  "n_ex": 5,
+  "anchors": [
+   "фиг",
+   "хрен",
+   "а",
+   "не"
+  ],
+  "syn": "Biclausal Construction",
+  "kind": "mixed",
+  "example": "В таких случаях уже ни о каких долгах речи нет. Хрен [им]Maleficiary, а не [долг]Patient.\n"
+ },
+ {
+  "record": 4054,
+  "name": "не NP-Nom, а NP-Nom",
+  "n_ex": 5,
+  "anchors": [
+   "не",
+   "а"
+  ],
+  "syn": "Connection Construction",
+  "kind": "func",
+  "example": "Сложил муж ей новую печь. Не [печь]Comparee, а [сказка]Standard.\n"
+ },
+ {
+  "record": 2232,
+  "name": "коль скоро Cl, Cl",
+  "n_ex": 5,
+  "anchors": [
+   "коль",
+   "скоро"
+  ],
+  "syn": "Connection Construction",
+  "kind": "content",
+  "example": "Кстати, коль скоро [ты заговорил о недвижимости]Condition, [как насчет купить дом?]Situation.\n"
+ },
+ {
+  "record": 4050,
+  "name": "(Что) XP, (что) XP Cop всё одно",
+  "n_ex": 5,
+  "anchors": [
+   "что",
+   "всё",
+   "одно"
+  ],
+  "syn": "Connection Construction",
+  "kind": "mixed",
+  "example": "Что [жизнь]Theme, что [смерть]Theme – всё одно .\n"
+ },
+ {
+  "record": 4035,
+  "name": "кто NP-Nom такой, чтобы Cl",
+  "n_ex": 5,
+  "anchors": [
+   "кто",
+   "такой",
+   "чтобы"
+  ],
+  "syn": "Matrix and Sentential Complement Construction",
+  "kind": "func",
+  "example": "Кто [я]Agent такая, чтобы [писать об этом]Activity ?\n"
+ },
+ {
+  "record": 2334,
+  "name": "Не PronPers-Dat судить Cl",
+  "n_ex": 5,
+  "anchors": [
+   "судить"
+  ],
+  "syn": "Matrix and Sentential Complement Construction",
+  "kind": "content",
+  "example": "Не [мне]Cognizer судить, [кто прав, кто виноват]Evaluation.\n"
+ },
+ {
+  "record": 3921,
+  "name": "Сказать, что Cl, — (это) ничего не сказать",
+  "n_ex": 5,
+  "anchors": [
+   "что",
+   "это",
+   "ничего",
+   "не",
+   "сказать"
+  ],
+  "syn": "Matrix and Sentential Complement Construction",
+  "kind": "mixed",
+  "example": "Сказать, что [это был серьезный вопрос]Situation, серьезная проблема, — это ничего не сказать.\n"
+ },
+ {
+  "record": 2147,
+  "name": "Независимо от NP-Gen, Cl",
+  "n_ex": 5,
+  "anchors": [
+   "от"
+  ],
+  "syn": "Clause and Modifier Construction",
+  "kind": "func",
+  "example": "Независимо от [уровня интеллекта,]Concession [мальчик неплохо справляется с программой]Situation.\n"
+ },
+ {
+  "record": 4070,
+  "name": "VP худо-бедно",
+  "n_ex": 5,
+  "anchors": [
+   "худо",
+   "бедно"
+  ],
+  "syn": "Clause and Modifier Construction",
+  "kind": "content",
+  "example": "Раньше автобусы худо-бедно, но [с задачей справлялись]Action.\n"
+ },
+ {
+  "record": 4072,
+  "name": "VP раз за разом",
+  "n_ex": 5,
+  "anchors": [
+   "раз",
+   "за",
+   "разом"
+  ],
+  "syn": "Clause and Modifier Construction",
+  "kind": "mixed",
+  "example": "Но почему обязательно нужно раз за разом [начинать этот отвратительный разговор]Event!\n"
+ },
+ {
+  "record": 3931,
+  "name": "NP-Nom стать VP-Inf",
+  "n_ex": 5,
+  "anchors": [
+   "стать"
+  ],
+  "syn": "Matrix and Infinitival Complement Construction",
+  "kind": "func",
+  "example": "И тут [все наперебой]Agent стали [говорить, как круто я одета]Action!\n"
+ },
+ {
+  "record": 3421,
+  "name": "NP счесть AdjP-Ins (VP-Inf/NP-Acc)",
+  "n_ex": 5,
+  "anchors": [
+   "счесть"
+  ],
+  "syn": "Matrix and Infinitival Complement Construction",
+  "kind": "content",
+  "example": "[Лягушка]Cognizer в кастрюле на медленном огне тоже ни в какой момент не сочла [нужным]Evaluation [выпрыгнуть]Action ― так и сварилась.\n"
+ },
+ {
+  "record": 1676,
+  "name": "у NP-Gen получилось VP-Pfv.Inf",
+  "n_ex": 5,
+  "anchors": [
+   "у",
+   "получилось"
+  ],
+  "syn": "Matrix and Infinitival Complement Construction",
+  "kind": "mixed",
+  "example": "У [Рязанова]Agent получилось [снять городскую сказку]Result.\n"
+ }
+]

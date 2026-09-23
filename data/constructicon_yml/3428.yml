@@ -1,0 +1,56 @@
+---
+record: 3428
+name: 'VP кто куда'
+UD_name: ''
+illustration: 'Дети выросли и разъехались кто куда.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Тогда это было отстающее село, откуда люди [разъезжались]Action кто куда.
+  - |
+       Потому и [разъезжаются]Action мужики кто куда в поисках работы.
+  - |
+       Растерявшийся народ [бежал]Action кто куда ― к реке, в сад, к главному собору.
+  - |
+       Ужас охватил всех собравшихся у Адонии, они вскочили и [разбежались]Action кто куда.
+  - |
+       Мы все заблудились, как овцы, [разбрелись]Action кто куда, но за наши грехи Господь покарал его.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [advmod кто [advmod куда]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Дети] выросли [conj [cc и] разъехались [advmod кто [advmod куда]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       in different directions/each (going) his own way
+common_fillers:
+  - разбежаться
+  - разъехаться
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+  - type: Manner
+family:
+  - |
+    ""

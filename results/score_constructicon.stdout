@@ -1,0 +1,18 @@
+model ai-forever/ruRoberta-large @ 5192d064ca6ac67c14c40e017ce41612e010f05f
+Loading weights:   0%|          | 0/396 [00:00<?, ?it/s]Loading weights: 100%|██████████| 396/396 [00:00<00:00, 24071.66it/s]
+  10/150 sentences, 4s
+  20/150 sentences, 8s
+  30/150 sentences, 12s
+  40/150 sentences, 16s
+  50/150 sentences, 22s
+  60/150 sentences, 27s
+  70/150 sentences, 32s
+  80/150 sentences, 37s
+  90/150 sentences, 42s
+  100/150 sentences, 48s
+  110/150 sentences, 54s
+  120/150 sentences, 61s
+  130/150 sentences, 68s
+  140/150 sentences, 76s
+  150/150 sentences, 81s
+scored 797 words -> /home/student-1/ru-constructions-revealed/results/affinity_constructicon.jsonl; exclusions: 0

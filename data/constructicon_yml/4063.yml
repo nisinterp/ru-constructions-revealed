@@ -1,0 +1,54 @@
+---
+record: 4063
+name: 'VP-Inf/Adj-Nom-то (NP-Nom) не XP/Adj, (а/но/да Cl)'
+UD_name: ''
+illustration: 'Написать-то написали, да как письмо передать?'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Взять]Topic-то [взяло]ContentOfSpeech на себя [правительство]Paticipant эти проблемы, да [еще не решило]Situation.
+  - |
+       [Купить]Topic-то [купишь]ContentOfSpeech, цена приемлема, а [вот содержать такую собаку дорого]Situation.
+  - |
+       [Услышать]Topic-то [она]Participant его [услышала]ContentOfSpeech, но [это не прояснило их отношений]Situation.
+  - |
+       [Красивый]Topic-то, [красивый]Topic, да вот тупой донельзя!
+  - |
+       [Приехать]Topic-то [он]Participant [приедет]ContentOfSpeech, правда не на долго.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [xcomp VP-Inf-то] XP, [conj [cc а] Cl]]'
+  - '[root [xcomp VP-Inf-то] XP, [conj [cc но] Cl]]'
+  - '[root [xcomp VP-Inf-то] XP, [conj [cc да] Cl]]'
+  - '[root [nmod NP-то] NP, [conj [cc а] Cl]]'
+  - '[root [nmod NP-то] NP, [conj [cc но] Cl]]'
+  - '[root [nmod NP-то] NP, [conj [cc да] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [xcomp Написать-то] написали, [conj [cc да] [advmod как] [obj письмо] передать]?]'
+comment: |
+    'см. также 4064 VP-Inf/Adj-Nom-то не (NP-Nom) не XP/Adj, (а/но/да Cl) -- Ударить-то он не ударил, но очень сильно оскорбил.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

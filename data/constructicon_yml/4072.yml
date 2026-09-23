@@ -1,0 +1,49 @@
+---
+record: 4072
+name: 'VP раз за разом'
+UD_name: ''
+illustration: 'Раз за разом мяч летел куда угодно, только не в сетку.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Но почему обязательно нужно раз за разом [начинать этот отвратительный разговор]Event!
+  - |
+       Это казалось невозможным, но [происходило]Event раз за разом!
+  - |
+       Мария же, напротив, начала раз за разом [выигрывать очки]Event.
+  - |
+       Мои попытки поймать что-нибудь [терпели неудачу]Event раз за разом.
+  - |
+       Раз за разом [в спину ему ударилось пять или шесть крепких как камень желудей]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl раз [nmod [case за] разом]]]'
+dependency_structure_of_illustration:
+  - '[root [obl Раз [nmod [case за] разом]] [nsubj мяч] летел [obl [advmod куда [advmod угодно, [conj [advmod только] [advmod не] [case в] сетку]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

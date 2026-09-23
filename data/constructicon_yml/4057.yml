@@ -1,0 +1,47 @@
+---
+record: 4057
+name: 'всем NP-Dat.Pl ~NP-Nom'
+UD_name: ''
+illustration: 'Да какой жираф! Всем жирафам жираф!'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Да, это такой шнапс — всем [шнапсам]Standard [шнапс]Comparee.
+  - |
+       Васька из того фильма – всем [злодеям]Standard [злодей]Comparee.
+  - |
+       Это был всем [скандалам]Standard [скандал]Comparee! Обманутая заказчица орала как сумасшедшая!
+  - |
+       Браво, Павел Васильевич! Всем [портретам]Standard [портрет]Comparee!
+  - |
+       Пролетала над деревьями в поисках неизвестно чего огромная птица, всем [птицам]Standard [птица]Comparee.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj [det всем] NP-Ins.Pl] ~NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [discourse Да] [amod какой] жираф!] [root [iobj [det Всем] жирафам] жираф!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

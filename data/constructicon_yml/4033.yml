@@ -1,0 +1,48 @@
+---
+record: 4033
+name: 'VP-Ipfv.Inf не пере-~VP-Pfv.Inf'
+UD_name: ''
+illustration: 'Заданий здесь - делать не переделать.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Жена оставила много долгов - [платить]Activity не [переплатить]Action
+  - |
+       Перед новым годом снова [возить]Activity подарки не [перевозить]Action.
+  - |
+       Добра-то, добра-то сколько, — удивленно прошептала Манефа, — [носить]Activity не [переносить]Action
+  - |
+       Если ты начинаешь с путешествия, то, видно, ходить тебе — не переходить, [ездить]Activity — не [переездить]Action!
+  - |
+       Надо было разобраться с многим, мыслей было - [думать]Activity не [передумать]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Negation
+  - Reduplication
+part_of_speech_of_anchor:
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP-Ipfv.Inf [conj [advmod не] пере-~VP-Pfv.Inf]]'
+dependency_structure_of_illustration:
+  - '[root [csubj [nsubj Заданий] здесь] - делать [conj [advmod не] переделать].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

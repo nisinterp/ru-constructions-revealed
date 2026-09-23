@@ -1,0 +1,49 @@
+---
+record: 4054
+name: 'не NP-Nom, а NP-Nom'
+UD_name: ''
+illustration: 'Маруся не ребенок, а исчадие ада.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Сложил муж ей новую печь. Не [печь]Comparee, а [сказка]Standard.
+  - |
+       — Не [аппаратура]Comparee, а [рухлядь]Standard, — сообщила электрик.
+  - |
+       — Кота надо высечь, — сказал Иван, — это не [кот]Comparee, а [бандит]Standard.
+  - |
+       — Не [жизнь]Comparee, а [карусель]Standard, — уныло сказал знакомый и перечислил свои заботы, обязанности и обязательства.
+  - |
+       По сравнению с иными ситуациями — не [жизнь]Comparee, а [малина]Standard…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] NP-Nom'
+  - '[conj [cc а] NP-Nom]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Маруся] [advmod не] ребенок, [conj [cc а] исчадие [nmod ада]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

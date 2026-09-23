@@ -1,0 +1,60 @@
+а: fetched=135 dropped_in_construction=46 kept=50 filter=applied
+бельмеса: fetched=100 dropped_in_construction=77 kept=23 filter=applied
+все: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+всем: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+да: fetched=147 dropped_in_construction=2 kept=50 filter=applied
+за: fetched=146 dropped_in_construction=0 kept=50 filter=applied
+и: fetched=125 dropped_in_construction=1 kept=50 filter=applied
+как: fetched=147 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+коль: fetched=100 dropped_in_construction=35 kept=50 filter=applied
+кто: fetched=148 dropped_in_construction=2 kept=50 filter=applied
+куда: fetched=149 dropped_in_construction=8 kept=50 filter=applied
+легкий: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+легких: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+легкой: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+легком: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+милость: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+на: fetched=127 dropped_in_construction=19 kept=50 filter=applied
+не: fetched=146 dropped_in_construction=53 kept=50 filter=applied
+ничего: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+но: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+ну: fetched=148 dropped_in_construction=55 kept=50 filter=applied
+одно: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+от: fetched=148 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+по: fetched=144 dropped_in_construction=0 kept=50 filter=applied
+получилось: fetched=147 dropped_in_construction=39 kept=50 filter=applied
+пудов: fetched=146 dropped_in_construction=0 kept=50 filter=applied
+раз: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+развязав: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+развязал: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+развязан: fetched=39 dropped_in_construction=0 kept=39 filter=n/a (single-anchor)
+развязанного: fetched=12 dropped_in_construction=0 kept=12 filter=n/a (single-anchor)
+развязать: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+разом: fetched=100 dropped_in_construction=11 kept=50 filter=applied
+сказать: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+скоро: fetched=149 dropped_in_construction=2 kept=50 filter=applied
+смотрю: fetched=100 dropped_in_construction=66 kept=34 filter=applied
+сочла: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+сочли: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+сочтет: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+стал: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+стала: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+стали: fetched=148 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+станут: fetched=149 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+стопудово: fetched=33 dropped_in_construction=0 kept=33 filter=applied
+судить: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+счел: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+такая: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+такой: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+тихий: fetched=149 dropped_in_construction=1 kept=50 filter=applied
+ты: fetched=145 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+у: fetched=145 dropped_in_construction=0 kept=50 filter=applied
+ужас: fetched=147 dropped_in_construction=1 kept=50 filter=applied
+фиг: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+фронтам: fetched=100 dropped_in_construction=47 kept=50 filter=applied
+хрен: fetched=100 dropped_in_construction=0 kept=50 filter=applied
+худо-бедно: fetched=100 dropped_in_construction=0 kept=50 filter=n/a (single-anchor)
+что: fetched=143 dropped_in_construction=0 kept=50 filter=applied
+чтобы: fetched=149 dropped_in_construction=0 kept=50 filter=applied
+это: fetched=148 dropped_in_construction=0 kept=50 filter=applied
+я: fetched=144 dropped_in_construction=1 kept=50 filter=applied

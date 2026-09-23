@@ -1,0 +1,58 @@
+---
+record: 3421
+name: 'NP счесть AdjP-Ins (VP-Inf/NP-Acc)'
+UD_name: ''
+illustration: 'Братья не сочли нужным отвечать.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Лягушка]Cognizer в кастрюле на медленном огне тоже ни в какой момент не сочла [нужным]Evaluation [выпрыгнуть]Action ― так и сварилась.
+  - |
+       А [заглядывать в словарь]Activity [любитель]Cognizer не сочтёт [нужным]Evaluation― он больше верит своей интуиции.
+  - |
+       Он огорчился, увидев, что [некоторые]Cognizer не сочли [нужным]Evaluation последнего [записать]Action, и между ними Пушкин.
+  - |
+       [Он]Cognizer не счел [нужным]Evaluation хотя бы [надеть куртку]Action и, придерживая на груди цветистый халат, демонстративно позевывал в кулак.
+  - |
+       Нет, [он]Cognizer [это]Theme не счёл [резонным]Evaluation, начал спорить, доказывать, а спорил он неприятно, на высокой ноте, без уважения к собеседнику.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [dep NP] счесть [obl AdjP-Ins]]'
+  - '[root [dep NP] счесть [obl AdjP-Ins] [xcomp VP-Inf]]'
+  - '[root [dep NP] счесть [obl AdjP-Ins] [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Братья] [advmod не] сочли [obl нужным] [xcomp отвечать].]'
+comment: |
+    'No comment yet'
+equivalents:
+common_fillers:
+  - нужный
+  - важный
+  - уместный
+  - возможный
+  - необходимый
+  - заметить
+  - описывать
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

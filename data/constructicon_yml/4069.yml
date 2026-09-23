@@ -1,0 +1,48 @@
+---
+record: 4069
+name: '(я) смотрю, Cl'
+UD_name: ''
+illustration: 'Я смотрю, у вас была бурная юность!'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Ты и гвоздя, смотрю, как следует не можешь забить]Situation.
+  - |
+       Да ты, смотрю, [что-то в этом понимаешь]Situation.
+  - |
+       Я смотрю, [ты еще не совсем бодрость духа растерял]Situation.
+  - |
+       Я смотрю, [у кого-то здесь плохой аппетит]Situation.
+  - |
+       Он, смотрю опаздывает.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [nsubj я] смотрю], Cl]'
+  - '[root [parataxis смотрю], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [nsubj Я] смотрю], [obl [case у] вас] [cop была] [amod бурная] юность!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

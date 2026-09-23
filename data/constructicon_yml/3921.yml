@@ -1,0 +1,51 @@
+---
+record: 3921
+name: 'Сказать, что Cl, — (это) ничего не сказать'
+UD_name: ''
+illustration: 'Сказать, что он был в ярости, — ничего не сказать.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Сказать, что [это был серьезный вопрос]Situation, серьезная проблема, — это ничего не сказать.
+  - |
+       Сказать, что [это был шок]Situation, — ничего не сказать, я была оскорблена, поражена, возмущению не было предела.
+  - |
+       «Просто сказать, что [я — из поколения, боготворившего Андрея]Situation, — ничего не сказать.
+  - |
+       Сказать, что [кладбищенские ждут Пасхи]Situation, — ничего не сказать.
+  - |
+       Сказать, что [Валентин почувствовал себя мерзко]Situation — ничего не сказать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [ccomp Сказать, [ccomp [mark что] Cl]], - [expl это] [obj ничего] [advmod не] сказать]'
+  - '[root [ccomp Сказать, [ccomp [mark что] Cl]], - [obj ничего] [advmod не] сказать]'
+dependency_structure_of_illustration:
+  - '[root [ccomp Сказать, [ccomp [mark что] [nsubj он] был [obl [case в] ярости]]], - [obj ничего] [advmod не] сказать.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

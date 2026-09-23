@@ -1,0 +1,49 @@
+---
+record: 4050
+name: '(Что) XP, (что) XP Cop всё одно'
+UD_name: ''
+illustration: 'Что работать, что отдыхать - всё одно, разницы нет.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Что [жизнь]Theme, что [смерть]Theme – всё одно .
+  - |
+       [Мажь кремом]Action, не [мажь]Action — все одно.
+  - |
+       Тут что [минута]Theme, что [миллиарды лет]Theme — все одно.
+  - |
+       Конечно, есть и те, кому что [плевок в глаза]Theme, что [божья роса]Theme — все одно.
+  - |
+       [Разрушитель культуры]Theme, [экстравагантный гений]Theme, [эскимо на палочке]Theme — все одно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [csubj [mark Что] XP'
+  - '[conj [mark что] XP]] [cop Cop] всё [fixed одно]]'
+dependency_structure_of_illustration:
+  - '[root [csubj [mark Что] работать, [conj [mark что] отдыхать]] - всё [fixed одно], [conj [nsubj разницы] нет].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

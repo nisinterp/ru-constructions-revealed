@@ -1,0 +1,49 @@
+---
+record: 4060
+name: 'N-Nom как ~N-Nom'
+UD_name: ''
+illustration: 'Сыр как сыр — ничего особенного.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Раньше это была [дача]Comparee как [дача]Standard -- обыкновенный деревянный домик.
+  - |
+       Я понимаю -- десять; [цифра]Comparee как [цифра]Standard, запомнить можно.
+  - |
+       [Кожа]Comparee как [кожа]Standard, из которой пальто шьют.
+  - |
+       [Детство]Comparee как [детство]Standard, военным его не назовешь.
+  - |
+       Вид у него был... да [вид]Comparee как [вид]Standard, в общем.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj N-Nom] [advmod как] ~N-Nom]'
+dependency_structure_of_illustration:
+  - '[root [csubj [nsubj Сыр] [advmod как] сыр] — ничего [amod особенного].]'
+comment: |
+    'Не путать с 4059 N-Nom есть ~N-Nom -- Однако закон есть закон, его нельзя нарушать.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

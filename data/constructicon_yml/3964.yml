@@ -1,0 +1,51 @@
+---
+record: 3964
+name: 'развязать NP-Acc'
+UD_name: ''
+illustration: 'Петя развязал драку в кафе.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Придя к власти в 1874 году, он развязал [войну]Situation в Афганистане.
+  - |
+       Мы должны бороться вне зависимости от масштабов развязанного [конфликта]Situation.
+  - |
+       Развязав [бойню]Situation в этой стране, вы стираете первые следы нашей с вами цивилизации.
+  - |
+       Полиция оперативно пресекала попытки развязать драку, используя резиновые пули, водомёты и слезоточивый газ.
+  - |
+       В стране был развязан террор против инакомыслящих.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root развязать [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петя] развязал [obj драку] [obl [case в] кафе].]'
+equivalents:
+common_fillers:
+  - драка
+  - террор
+  - бойня
+  - война
+  - конфликт
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""
