@@ -1,0 +1,15 @@
+.direnv/
+.venv/
+__pycache__/
+*.egg-info/
+.env
+.cursor/
+.ninja_log
+paper-typst/main.pdf
+
+# Experiment runtime artifacts
+experiment/logs/
+experiment/traces/
+experiment/results/
+experiment/state_*.json
+
